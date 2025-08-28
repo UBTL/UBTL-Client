@@ -2497,7 +2497,7 @@ class GoogleLens:
         "Host": "lensfrontend-pa.googleapis.com",
         "Connection": "keep-alive",
         "Content-Type": "application/x-protobuf",
-        "X-Goog-Api-Key": "AIzaSyDr2UxVnv_U85AbhhY8XSHSIavUW0DC-sY",
+        "X-Goog-Api-Key": "",
         "Sec-Fetch-Site": "none",
         "Sec-Fetch-Mode": "no-cors",
         "Sec-Fetch-Dest": "empty",
